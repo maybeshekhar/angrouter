@@ -1,0 +1,12 @@
+.mat-list-item > h5{
+    font-size: 0.8rem;
+    height: 44px !important;
+    margin-bottom: 4px;
+    border-radius: 5px;
+    margin: 0 8px;
+}
+
+
+.logo {
+    text-align: center;
+  }
